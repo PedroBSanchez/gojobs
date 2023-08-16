@@ -1,1 +1,14 @@
 go.sum
+
+
+*.exe
+*.dll
+*.so
+*.dylib
+
+*.test
+
+*.out
+
+DB folder
+db/
