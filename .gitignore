@@ -12,3 +12,6 @@ go.sum
 
 DB folder
 db/
+
+
+.env

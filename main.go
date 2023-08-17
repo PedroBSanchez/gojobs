@@ -1,6 +1,8 @@
 package main
 
 import (
+	"os"
+
 	"github.com/PedroBSanchez/gojobs.git/config"
 	"github.com/PedroBSanchez/gojobs.git/router"
 )
@@ -12,6 +14,8 @@ var (
 func main() {
 
 	logger = config.GetLogger("main")
+
+	print(os.Getenv("PORT"))
 
 	//Initialize Configs
 	err := config.Init()
