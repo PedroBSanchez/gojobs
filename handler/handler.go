@@ -24,19 +24,7 @@ func ShowOpeningHandler(ctx *gin.Context) {
 	})
 }
 
-func DeleteOpeningHandler(ctx *gin.Context) {
-	ctx.JSON(http.StatusOK, gin.H{
-		"msg": "Get opening",
-	})
-}
-
 func UpdateOpeningHandler(ctx *gin.Context) {
-	ctx.JSON(http.StatusOK, gin.H{
-		"msg": "Get opening",
-	})
-}
-
-func ListOpeningsHandler(ctx *gin.Context) {
 	ctx.JSON(http.StatusOK, gin.H{
 		"msg": "Get opening",
 	})
