@@ -13,6 +13,7 @@ The project encompasses a Golang-developed API aimed at streamlining job opportu
 # Techs
 
  - GoLang (Gin Framework)
+ - Gorm (ORM)
  - SQLite
 
 # How to Run
