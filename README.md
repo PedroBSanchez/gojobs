@@ -1,7 +1,6 @@
 # GoJobs
 
-
-
+<img src="https://github.com/PedroBSanchez/gojobs/assets/68929967/53fc8651-8ec5-49c0-b89b-94e46cc8e18b" alt="gojobs" width="300" height="300">
 
 Repos: 
  - https://github.com/PedroBSanchez/gojobs
