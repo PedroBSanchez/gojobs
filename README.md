@@ -20,8 +20,8 @@ The project encompasses a Golang-developed API aimed at streamlining job opportu
   run make
 
 ### dev
-  run "go mod tidy"
-  run "go run main.go"
+ - run "go mod tidy"
+ - run "go run main.go"
 
 
 
